@@ -1,0 +1,11 @@
+/vendor
+/public/bower_components
+/public/tests
+/tests
+composer.phar
+composer.lock
+.DS_Store
+Thumbs.db
+notes.txt
+error.log
+access.log

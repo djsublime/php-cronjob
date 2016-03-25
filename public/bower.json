@@ -1,0 +1,24 @@
+{
+  "name": "php-cronjob",
+  "version": "0.0.0",
+  "homepage": "https://github.com/djsublime/php-cronjob",
+  "authors": [
+    "Dragan Jovanovic <dragan.doe@gmail.com>"
+  ],
+  "description": "php-cronjob frontend",
+  "main": "",
+  "keywords": [
+    "php cronjob"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.3.5"
+  }
+}
